@@ -1,0 +1,6 @@
+PORT=5000
+DB_PATH=./x402.db
+VERIFIER_API_URL=https://verifier.example.com/verify
+VERIFIER_API_KEY=your_key_here
+SIGNER_PUBLIC_KEY=base64_pubkey_here
+SIG_ALGO=ed25519

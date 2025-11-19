@@ -1,0 +1,9 @@
+Update project configuration and dependencies for enhanced stability
+
+Adjust module resolution and dependency versions in package.json and tsconfig.json, and fix import assertion in validator.ts.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: b73de0f5-1ec6-4707-b838-9d6ef4b05188
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: ad89d52d-c14b-4b41-9fa0-00549c67daee
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/badd00a2-96bd-4855-a3c2-acfc378aa1cb/b73de0f5-1ec6-4707-b838-9d6ef4b05188/Rz1VOKn
